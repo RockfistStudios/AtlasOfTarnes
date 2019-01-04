@@ -1,0 +1,1 @@
+make sure user cameras are considered during the ai process, and do not create extra cameras at the end
